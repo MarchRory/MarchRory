@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
-  
-
 ### <div align="center">I'm LiuShi21, a student of SWPU, a member of XDZN </div>  
 
 - 🔭 I’m currently interested in front-end technology  
@@ -43,12 +38,9 @@
 ### Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=MarchRory&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
-  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
 
-<div align="center"></div>
-<br />
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+  <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" /> 
+</div>  
+
