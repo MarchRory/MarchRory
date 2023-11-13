@@ -7,7 +7,7 @@
 - ⚡ Crazy: Working for the beauty of the world
 
 
-## Blogs  
+## Blogs
 
 <div style="display: flex; flex-wrap: warp; align-items: center; justify-content: center">
   <ul>
@@ -15,7 +15,7 @@
       <strong>稀土掘金:</strong><a href="https://juejin.cn/user/1711301113940711?utm_source=gold_browser_extension" target="_blank" style="color:skyblue;text-decoration:none;">&nbsp;雩风十六</a>
     </li>
     <li>
-      <strong>CSDN:</strong><a href="https://blog.csdn.net/liushi21?spm=1000.2115.3001.5343" target="_blank" style="color: skyblue;text-decoration:none;">&nbsp;六时二一</a>
+      <strong>CSDN:</strong><a href="https://blog.csdn.net/liushi21?spm=1000.2115.3001.5343" target="_blank" style="color: skyblue; text-decoration:none;">&nbsp;六时二一</a>
     </li>
   </ul>
 </div>  
