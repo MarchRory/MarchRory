@@ -1,21 +1,26 @@
 ### <div align="center">I'm LiuShi21, a student of SWPU, a member of XDZN </div>  
+<div align="center" style="color: color: skyblue;font-size: 50px"><strong>我自风情万种, 与世无争</strong></div>  
 
+## About Me
 - 🔭 I’m currently interested in front-end technology  
 - 🌱 Likes movies, TV dramas, nature, music, food and so on  
-- ⚡ Crazy: Working for the beauty of the world  
-<br/>
+- ⚡ Crazy: Working for the beauty of the world
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchRory&hide_border=true&layout=compact" align="right" /></div>  
-<br/>  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/MarchRory" target="_blank">
-</a>  
+## Blogs  
+
+<div style="display: flex; flex-wrap: warp; align-items: center; justify-content: center">
+  <ul>
+    <li>
+      <strong>稀土掘金:</strong><a href="https://juejin.cn/user/1711301113940711?utm_source=gold_browser_extension" target="_blank" style="color:skyblue;text-decoration:none;">&nbsp;雩风十六</a>
+    </li>
+    <li>
+      <strong>CSDN:</strong><a href="https://blog.csdn.net/liushi21?spm=1000.2115.3001.5343" target="_blank" style="color: skyblue;text-decoration:none;">&nbsp;六时二一</a>
+    </li>
+  </ul>
 </div>  
 
-## My Skill Set  
-
+## Skill Set  
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -31,16 +36,10 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div> 
-
 <br/>  
 
-## Github Stats  
 ### Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=MarchRory&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-  <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" /> 
-</div>  
+<img src="https://github-readme-stats.vercel.app/api?username=MarchRory&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchRory&hide_border=true&layout=compact" align="right" /></div>  
+<br/>  
 
