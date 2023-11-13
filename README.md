@@ -8,7 +8,11 @@
 - 🔭 I’m currently interested in front-end technology  
 - 🌱 Likes movies, TV dramas, nature, music, food and so on  
 - ⚡ Crazy: Working for the beauty of the world  
+<br/>
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchRory&hide_border=true&layout=compact" align="right" /></div>  
 <br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/MarchRory" target="_blank">
@@ -41,8 +45,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MarchRory&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 ### Tools  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchRory&hide_border=true&layout=compact" align="right" /></div>  
-<br/>  
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
@@ -52,6 +54,3 @@
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
