@@ -31,7 +31,7 @@
 
 ## Skills   
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=git,html,css,vue,nuxtjs,tailwind,js,ts,vite,webpack,nodejs,express,md,vscode," />
   </a>
 </p>
