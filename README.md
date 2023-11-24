@@ -1,5 +1,5 @@
 ### <div align="center">I'm LiuShi21, a student of SWPU, a member of XDZN </div>  
-<div align="center" style="color:skyblue;"><h3>Surprise!<h3></div>  
+<div align="center" style="color:skyblue;"><h3>Be Better~<h3></div>  
 
 ## About Me
 - 🔭 I’m currently interested in front-end technology  
