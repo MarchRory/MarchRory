@@ -1,5 +1,8 @@
 ### <div align="center">I'm LiuShi21, a student of SWPU, a member of XDZN </div>  
 <div align="center" style="color:skyblue;"><h3>Be Better~<h3></div>  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarchRory.MarchRory" alt="visitors"/> 
+</div>
 
 ## About Me
 - 🔭 I’m currently interested in front-end technology  
