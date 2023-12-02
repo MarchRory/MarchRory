@@ -3,6 +3,24 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MarchRory.MarchRory" alt="visitors"/> 
 </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchRory" />
+</div>
+  
+## Skills   
+<div align="center">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
+  <img alt="vue" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50" title="vue">
+  <img alt="react" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" title="react">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,nuxtjs,tailwind,ts,vite,webpack,express,md" />
+</div>
+
 
 ## About Me
 - 🔭 I’m currently interested in front-end technology  
@@ -33,14 +51,7 @@
     />
 </a>
 
-## Skills   
-<p align="center">
-  <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=git,html,css,vue,nuxtjs,tailwind,js,ts,vite,webpack,nodejs,express,md,vscode" />
-  </a>
-</p>
-
-### Stats  
+## Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=MarchRory&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchRory&hide_border=true&layout=compact" align="right" /></div>  
 <br/>  
