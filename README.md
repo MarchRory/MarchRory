@@ -9,16 +9,16 @@
   
 ## Skills   
 <div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
-  <img alt="vue" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50" title="vue">
-  <img alt="react" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" title="react">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
+  <img loading="lazy" alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
+  <img loading="lazy" alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
+  <img loading="lazy" alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
+  <img loading="lazy" alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" title="node">
+  <img loading="lazy" alt="vue" src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50" title="vue">
+  <img loading="lazy" alt="react" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" title="react">
+  <img loading="lazy" alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
+  <img loading="lazy" alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50" title="github">
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,nuxtjs,tailwind,ts,vite,webpack,express,md" />
+  <img loading="lazy" src="https://skillicons.dev/icons?i=git,nuxtjs,tailwind,ts,vite,webpack,express,md" />
 </div>
 
 
@@ -44,7 +44,8 @@
 <a href="https://github.com/MarchRory">
   <div align="left">
 
-  <img
+  <img 
+      loading="lazy"
       src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=1711301113940711"
       alt="MarchRory的掘金Blog"
       height="200px"
@@ -52,7 +53,7 @@
 </a>
 
 ## Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=MarchRory&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchRory&hide_border=true&layout=compact" align="right" /></div>  
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MarchRory&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
+<div align="right"><img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchRory&hide_border=true&layout=compact" align="right" /></div>  
 <br/>  
 
