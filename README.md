@@ -6,7 +6,15 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchRory" />
 </div>
-  
+
+## Work Experience
+<div align="center">
+  <ul style="list-style: none; font-weight: 900">
+    <li>Baidu, Beijing —— 2024.1 - till now</li>
+  </ul>
+</div>
+
+
 ## Skills   
 <div align="center">
   <img loading="lazy" alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
