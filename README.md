@@ -10,7 +10,7 @@
 ## Work Experience
 <div align="center">
   <ul style="list-style: none; font-weight: 900">
-    <li>Baidu MEG, Beijing, 2024.1.3 ~ 2024.3.29</li>
+    <li>Baidu MEG&汽车大前端研发组, Beijing, 2024.1.3 ~ 2024.3.29</li>
   </ul>
 </div>
 
