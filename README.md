@@ -10,7 +10,7 @@
 ## Work Experience
 <div align="center">
   <ul style="list-style: none; font-weight: 900">
-    <li>Baidu, Beijing —— 2024.1 - 2024.3</li>
+    <li>Baidu MEG, Beijing</li>
   </ul>
 </div>
 
