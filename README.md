@@ -9,7 +9,7 @@
 
 ## Work Experience
 <div align="center">
-  <ul style="list-style: none; font-weight: 900">
+  <ul style="list-style-type: none; font-weight: 900">
     <li><strong>百度-汽车研发部</strong>, 北京, 【2024.1.03 ~ 2024.3.29】</li>
     <li><strong>美团-到店研发平台</strong>, 上海, 【2024.6.19 ~ 至今】</li>
   </ul>
