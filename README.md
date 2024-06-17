@@ -6,13 +6,19 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchRory" />
 </div>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
 
 ## Work Experience
 <div align="center">
-  <ul style="list-style-type: none; font-weight: 900">
-    <li><strong>百度-汽车研发部</strong>, 北京, 【2024.1.03 ~ 2024.3.29】</li>
-    <li><strong>美团-到店研发平台</strong>, 上海, 【2024.6.19 ~ 至今】</li>
-  </ul>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div><strong>百度-汽车研发部</strong>, 北京, 【2024.1.03 ~ 2024.3.29】</div>
+    <div><strong>美团-到店研发平台</strong>, 上海, 【2024.6.19 ~ 至今】</div>
+  </div>
 </div>
 
 
