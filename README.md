@@ -1,4 +1,4 @@
-### <div align="center">I'm LiuShi21, a student of SWPU, a member of XDZN </div>  
+### <div align="center">I'm LiuShi21, a student of SWPU, a member of XDZN</div>  
 <div align="center" style="color:skyblue;"><h3>Be Better~<h3></div>  
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MarchRory.MarchRory" alt="visitors"/> 
@@ -11,6 +11,7 @@
 <div align="center">
   <ul style="list-style: none; font-weight: 900">
     <li><strong>百度-汽车研发部</strong>, 北京, 【2024.1.03 ~ 2024.3.29】</li>
+    <li><strong>美团-到店研发平台</strong>, 上海, 【2024.6.19 ~ 至今】</li>
   </ul>
 </div>
 
@@ -31,8 +32,8 @@
 
 
 ## About Me
-- 🔭 I’m currently interested in front-end technology  
-- 🌱 Likes movies, TV dramas, nature, music, food and so on  
+- 🔭 I’m currently interested in front-end technology
+- 🌱 Interest： movies, TV dramas, nature, music, food, games, city walk and so on
 - ⚡ Crazy: Working for the beauty of the world
 
 
