@@ -42,11 +42,9 @@
 ## About Me
 - 🔭 I’m currently interested in front-end technology
 - 🌱 Interest： movies, TV dramas, nature, music, food, games, city walk and so on
-- ⚡ Crazy: Working for the beauty of the world
+- ⚡ Real: To be what you wanna be
 
-
-## Blogs
-
+<!--
 <div style="display: flex; flex-wrap: warp; align-items: center; justify-content: center">
   <ul>
     <li>
@@ -56,7 +54,7 @@
       <strong>CSDN:</strong><a href="https://blog.csdn.net/liushi21?spm=1000.2115.3001.5343" target="_blank" style="color: skyblue; text-decoration:none;">&nbsp;六时二一</a>
     </li>
   </ul>
-</div>  
+</div>
 
 <a href="https://github.com/MarchRory">
   <div align="left">
@@ -67,6 +65,7 @@
       height="200px"
     />
 </a>
+-->
 
 ## Stats  
 <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=MarchRory&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
