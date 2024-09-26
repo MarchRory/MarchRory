@@ -19,7 +19,7 @@
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <div><strong>百度 - MEG - 汽车研发部</strong>, 北京, 【2024.1.03 ~ 2024.3.29】</div>
-    <div><strong>美团 - 核心本地商业 - 到店研发平台</strong>, 上海, 【2024.6.19 ~ 至今】</div>
+    <div><strong>美团 - 到店研发平台 - 到综技术部</strong>, 上海, 【2024.6.19 ~ 2024.9.20】</div>
   </div>
 </div>
 
