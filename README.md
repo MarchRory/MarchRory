@@ -15,15 +15,20 @@
 </picture>
 -->
 
-## Work Experience
+## Internship Experience
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <div><strong>百度 - MEG - 汽车研发部</strong>, 北京, 【2024.1.03 ~ 2024.3.29】</div>
     <div><strong>美团 - CLC - 到综技术部</strong>, 上海, 【2024.6.19 ~ 2024.9.20】</div>
-    <div><strong>美团 - CLC - 基础研发平台</strong>, 北京, 【2025.6.27 ~ 至今】</div>
   </div>
 </div>
 
+## Full Time Job
+<div align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div><strong>美团 - CLC - 基础研发平台</strong>, 北京, 【2025.6.27 ~ 至今】</div>
+  </div>
+</div>
 
 ## Skills   
 <div align="center">
