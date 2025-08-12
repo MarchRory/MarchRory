@@ -46,7 +46,7 @@
 
 
 ## About Me
-- 🔭 I’m currently interested in front-end technology
+- 🔭 I’m currently interested in full-stack technology
 - 🌱 Interest： movies, TV dramas, nature, music, food, games, city walk and so on
 - ⚡ Real: To be what you wanna be
 
